@@ -45,7 +45,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Questions](#questions)
+
 
 ## Installation
 
