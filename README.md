@@ -3,6 +3,8 @@
 ## Description
   
 🔍 A node.js application that uses user input from inquirer to create an SVG Logo file. The logo files of different shapes are created in the examples directory and can be found [here](./examples/logo-cir.svg)  
+This application also demonstrates the Tests executed for each shape. 
+For validating the color, this project uses package provided by npm called validate-color.
   
 💻 Below is the gif showing the functionality of the application:
   
